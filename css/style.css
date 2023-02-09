@@ -198,3 +198,7 @@ body {
     display: none;
   }
 }
+
+.hero-box2 img {
+  filter: drop-shadow(11px 9px 4px rgba(0, 0, 0, 0.27));
+}
