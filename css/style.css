@@ -212,7 +212,9 @@ body {
 
   .hero-box1 p {
     width: 100vw;
-    font-size: 12px;
+    padding: 3em;
+    font-size: 16px;
+    line-height: 22px;
     text-align: center;
   }
 
