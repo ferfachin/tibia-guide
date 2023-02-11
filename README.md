@@ -5,3 +5,5 @@
 
 <h2> Desenvolvido por <a href="https://github.com/ferfachin">Fernando Fachin</a> e <a href="https://github.com/EduardaNunes">Eduarda Nunes</a></p>
 
+<p>GitHub pages can't load all site, <a href="https://meek-gelato-aa623d.netlify.app/">click to go site</a></p>
+
