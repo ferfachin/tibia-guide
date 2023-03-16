@@ -1,5 +1,14 @@
-import '@/styles/globals.css'
+import { Navbar, Footer, Hero } from '../components';
+import '../styles/globals.css';
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+const App = () => {
+  return (
+    <div>
+      <Navbar />
+      <Hero />
+      <Footer />
+    </div>
+  );
 }
+
+export default App
